@@ -35,7 +35,7 @@ If you changed the repo name don't forget to update all the js related (both ske
 # Developers
 {{< columns >}} <!-- begin columns block -->
 # Heidy Alayon
-Lorem markdownum insigne...
+My academic interests are security and machine learning my hobbies are walking, dancing, strolling.
 
 <---> <!-- magic separator, between columns -->
 
