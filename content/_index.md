@@ -31,3 +31,19 @@ If you forked the repo don't forget to activate the [actions](https://github.com
 {{< hint info >}}
 If you changed the repo name don't forget to update all the js related (both sketches and assets) urls.
 {{< /hint >}}
+
+# Developers
+{{< columns >}} <!-- begin columns block -->
+# Heidy Alayon
+Lorem markdownum insigne...
+
+<---> <!-- magic separator, between columns -->
+
+# Jairo Suarez
+Lorem markdownum insigne...
+
+<---> <!-- magic separator, between columns -->
+
+# David Rios
+Lorem markdownum insigne...
+{{< /columns >}}
