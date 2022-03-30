@@ -33,17 +33,23 @@ If you changed the repo name don't forget to update all the js related (both ske
 {{< /hint >}}
 
 # Developers
+
 {{< columns >}} <!-- begin columns block -->
+
 # Heidy Alayon
+
 My academic interests are security and machine learning my hobbies are walking, dancing, strolling.
 
 <---> <!-- magic separator, between columns -->
 
 # Jairo Suarez
+
 Developer interested in mobile applications and virtual reality, gamer and fan of trekking
 
 <---> <!-- magic separator, between columns -->
 
 # David Rios
-Lorem markdownum insigne...
+
+Amateur valorant player, chef and p
+hotographer. I'm interested in being a web developer.
 {{< /columns >}}
