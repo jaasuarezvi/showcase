@@ -40,7 +40,7 @@ Lorem markdownum insigne...
 <---> <!-- magic separator, between columns -->
 
 # Jairo Suarez
-Lorem markdownum insigne...
+Developer interested in mobile applications and virtual reality, gamer and fan of trekking
 
 <---> <!-- magic separator, between columns -->
 
