@@ -50,6 +50,9 @@ Developer interested in mobile applications and virtual reality, gamer and fan o
 
 # David Rios
 
-Amateur valorant player, chef and p
-hotographer. I'm interested in being a web developer.
+Amateur valorant player, chef and photographer. I'm interested in being a web developer.
 {{< /columns >}}
+
+# Optical Ilusions
+
+<iframe  style="width: 610px; height: 650px; overflow: hidden;" src="https://editor.p5js.org/drriosg/full/ZleDI0zrR"></iframe>
